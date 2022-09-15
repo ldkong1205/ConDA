@@ -2,7 +2,7 @@
 
 # ConDA
 
-### [Project]() | [Paper](https://arxiv.org/abs/2111.15242) | [Benchmark]()
+### [Project](https://ldkong.com/ConDA) | [Paper](https://arxiv.org/abs/2111.15242) | [Benchmark]()
 
 **[ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation](https://arxiv.org/abs/2111.15242)**
 <br>
@@ -16,14 +16,14 @@
 
 ## About
 
-ConDA aims at processing raw point clouds for unsupervised domain adaptation (UDA) in **LiDAR semantic segmentation**. It also supports other domain adaptation settings under annotation scarcity, such as semi-supervised domain adaptation (SSDA) and weakly-supervised domain adaptation (WSDA). The main idea of ConDA is to (1) construct an **intermediate domain** consisting of fine-grained interchange signals from both source and target domains without destabilizing the semantic coherency of objects and background around the ego-vehicle; (2) utilizes the intermediate domain for self-training.
+ConDA aims at processing raw point clouds for unsupervised domain adaptation (UDA) in **LiDAR semantic segmentation**. It also supports other domain adaptation settings under annotation scarcity, such as semi-supervised domain adaptation (SSDA) and weakly-supervised domain adaptation (WSDA). The main idea of ConDA is to (1) construct an **intermediate domain** consisting of fine-grained interchange signals from both source and target domains without destabilizing the semantic coherency of objects and background around the ego-vehicle; (2) utilizes the intermediate domain for self-training. Visit our [project page](https://ldkong.com/ConDA) to explore more details!
 
 <p align="middle">
   <img src="figs/conda.png" width="500" />
 </p>
 
 
-:oncoming_automobile: This is not an official Motional product.
+:oncoming_automobile: **This is not an official Motional product**
 
 
 ## Cross-City UDA Benchmark
