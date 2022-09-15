@@ -1,4 +1,4 @@
-<img src="figs/logo.png" align="right" width="25%">
+<img src="figs/logo.png" align="right" width="28%">
 
 # ConDA
 
@@ -18,8 +18,6 @@
 
 ConDA aims at processing raw point clouds for unsupervised domain adaptation (UDA) in **LiDAR semantic segmentation**. It also supports other domain adaptation settings under annotation scarcity, such as semi-supervised domain adaptation (SSDA) and weakly-supervised domain adaptation (WSDA). The main idea of ConDA is to (1) construct an **intermediate domain** consisting of fine-grained interchange signals from both source and target domains without destabilizing the semantic coherency of objects and background around the ego-vehicle; (2) utilizes the intermediate domain for self-training.
 
-
-<br>
 <p align="middle">
   <img src="figs/conda.png" width="500" />
 </p>
