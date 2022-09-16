@@ -103,3 +103,9 @@ We thank Sergi Widjaja, Xiaogang Wang, Dhananjai Sharma, and Edouard Francois Ma
 }
 ```
 
+## Know More About Motional
+<p align="center">
+  <img src="figs/motional.jpeg" align="center">
+</p>
+
+
