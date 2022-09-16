@@ -6,9 +6,9 @@
 
 **[ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation](https://arxiv.org/abs/2111.15242)**
 <br>
-[Lingdong Kong](https://scholar.google.com/citations?user=-j1j7TkAAAAJ) <sup>1,\*</sup>,
-[Niamul Quader](https://scholar.google.com/citations?user=x-HGzWwAAAAJ) <sup>2</sup>,
-[Venice Erin Liong](https://scholar.google.com/citations?user=q3AmlWMAAAAJ) <sup>2</sup>
+[Lingdong Kong](https://scholar.google.com/citations?user=-j1j7TkAAAAJ)<sup>1,\*</sup>,
+[Niamul Quader](https://scholar.google.com/citations?user=x-HGzWwAAAAJ)<sup>2</sup>,
+[Venice Erin Liong](https://scholar.google.com/citations?user=q3AmlWMAAAAJ)<sup>2</sup>
 <br>
 <sup>1</sup>National University of Singapore, <sup>2</sup>Motional
 <br>
