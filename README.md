@@ -69,6 +69,11 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
   <img src="figs/stat.png" align="center">
 </p>
 
+### Domain Concatenation
+<p align="center">
+  <img src="figs/concatenation.png" align="center">
+</p>
+
 ## TODO List
 
 - [x] Initial release. :rocket:
