@@ -94,15 +94,14 @@ This work is under the <a rel="license" href="http://creativecommons.org/license
 We thank Sergi Widjaja, Xiaogang Wang, Dhananjai Sharma, and Edouard Francois Marc Capellier for their insightful reviews and discussions.
 
 ## Citation
-```
+```bibtex
 @article{kong2021conda,
-  title = {ConDA: Unsupervised domain adaptation for LiDAR segmentation via regularized domain concatenation},
-  author = {Lingdong Kong and Niamul Quader and Venice Erin Liong},
+  title   = {ConDA: Unsupervised domain adaptation for LiDAR segmentation via regularized domain concatenation},
+  author  = {Lingdong Kong and Niamul Quader and Venice Erin Liong},
   journal = {arXiv preprint arXiv:2111.15242},
-  year = {2021}
+  year    = {2021}
 }
 ```
-
 ## Know More About Motional
 <p align="center">
   <img src="figs/motional.jpeg" align="center">
