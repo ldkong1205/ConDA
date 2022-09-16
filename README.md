@@ -61,10 +61,13 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 
 ### Framework Overview
 <p align="center">
-  <img src="figs/framework.png" align="center" width="99.9%">
+  <img src="figs/framework.png" align="center">
 </p>
 
-
+### Domain Discrepancy
+<p align="center">
+  <img src="figs/stat.png" align="center">
+</p>
 
 ## TODO List
 
