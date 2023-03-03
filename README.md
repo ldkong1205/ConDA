@@ -31,7 +31,7 @@ ConDA aims at processing raw point clouds for unsupervised domain adaptation (UD
 </p>
 
 ## Updates
-- [2023.01] - ConDA has been accepted to [ICRA 2023](https://www.icra2023.org/) :tada:!
+- [2023.01] - ConDA is accepted to [ICRA 2023](https://www.icra2023.org/) :tada:!
 - [2022.09] - Our paper is available on arXiv, click [here](https://arxiv.org/abs/2111.15242) to check it out. Code will be available soon!
 
 ## Outline
