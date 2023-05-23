@@ -96,11 +96,12 @@ We thank Sergi Widjaja, Xiaogang Wang, Dhananjai Sharma, and Edouard Francois Ma
 
 ## Citation
 ```bibtex
-@article{kong2021conda,
-  title   = {ConDA: Unsupervised domain adaptation for LiDAR segmentation via regularized domain concatenation},
-  author  = {Lingdong Kong and Niamul Quader and Venice Erin Liong},
-  journal = {arXiv preprint arXiv:2111.15242},
-  year    = {2021}
+@inproceedings{kong2023conda,
+  title = {ConDA: Unsupervised domain adaptation for LiDAR segmentation via regularized domain concatenation},
+  author = {Lingdong Kong and Niamul Quader and Venice Erin Liong},
+  booktitle = {IEEE International Conference on Robotics and Automation},
+  pages = {9338--9345},
+  year = {2023}
 }
 ```
 ## Know More About Motional
